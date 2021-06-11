@@ -1,0 +1,23 @@
+{
+  "name": "pepcoding_dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnushkaAg15/pepcoding-webDev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnushkaAg15/pepcoding-webDev/issues"
+  },
+  "homepage": "https://github.com/AnushkaAg15/pepcoding-webDev#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
