@@ -13,3 +13,6 @@ f1kapromise.then(function(data){
        });
     });
 });
+//this will be the promise hell 
+//in order to avoid this condition 
+//promise chain is being used 
